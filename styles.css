@@ -1,0 +1,82 @@
+hmtl,
+body {
+    margin: 0px;
+    background-color: rgb(219, 192, 197);
+}
+
+header {
+    background-size: cover;
+    background-image: url(https://images.wallpaperscraft.com/image/single/volleyball_balls_volleyball_sports_113210_2560x1080.jpg);
+    align-content: baseline;
+    justify-content: center;
+
+
+
+}
+
+header h1 {
+    color: rgb(15, 14, 14);
+    text-align: center;
+    padding-top: 1px;
+    font-size: 40px;
+    margin: 0px;
+    margin-bottom: 4px;
+    justify-content: center;
+
+}
+
+header p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px;
+    justify-content: center;
+}
+
+body ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(97, 23, 23);
+    margin: 0px;
+    justify-content: center;
+}
+
+body ul li {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    width: 100vw;
+    color: rgb(7, 7, 7);
+    font-weight: bold;
+    border-color: rgb(88, 203, 199);
+    border: 3px solid;
+    background-color: rgb(221, 41, 41);
+    margin-right: 80px;
+}
+
+.header2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+
+body h1 {
+    
+    font-size: 35px;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.balon {
+    width: 35px;
+    height: 35px;
+}
